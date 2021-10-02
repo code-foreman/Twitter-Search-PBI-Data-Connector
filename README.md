@@ -1,7 +1,7 @@
 # Twitter-Search-API
-Power BI Data Connector for Twitter Search API v2
+See a full write up of the development process [HERE](https://www.notion.so/Crypto-Currency-Twitter-Dashboard-358f92af7451422390b7f7484f64b1eb) .
 
-See the .mez for the data connector file.
+To view the code for the connector see the file Twitter Search API/Twitter_Search_API.pq . To try the connector out, see the installation steps below.
 
 In installation of the data connector, follow these steps...
 
